@@ -11,7 +11,7 @@
 
 ## Hi there! 👋
 
-Thank you for considering Granular! For a portion of your interview, you'll be **live-coding a small React app in JavaScript or TypeScript** based on an API we provide.
+Thank you for considering Granular! For a portion of your interview, you'll be **live-coding a small React app in JavaScript or TypeScript** based on an API we provide. We'd prefer you use Typescript, but if you've never used it before, please stick with what you know!
 
 ### Before the Coding Interview
 
